@@ -3,7 +3,7 @@ School assignment to make a basic api with domain and self created certificate. 
 
 # Encryption
 
-The encryption exampled are all made with a static string : "This is teh message.", in regards to the symmetric encryption that also has a password, the password is : "myPassword".
+The encryption examples are all made with a static string : "This is the message.", in regards to the symmetric encryption that also has a password, the password is : "myPassword".
 
 Asymmetric encryption with public and private key. <br/>
 - Very secure, but takes longer than symmetric encryption.
