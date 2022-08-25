@@ -3,7 +3,7 @@ School assignment to make a basic api with domain and self created certificate. 
 
 # Encryption
 
-Assymetric encryption with public and private key.
+Assymetric encryption with public and private key.__
 Symmetric encryption with public key and password.
 
 # Hashing
