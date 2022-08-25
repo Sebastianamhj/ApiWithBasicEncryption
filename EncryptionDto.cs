@@ -9,7 +9,10 @@ namespace httpsTest001
     {
         public string plainMessage { get; set; }
         public string hashedMessage { get; set; }
-        public string encryptedMessage { get; set; }
-        public string decryptedMessage { get; set; }
+        
+        public string assymetricEncryptedMessage { get; set; }
+        public string assymetricDecryptedMessage { get; set; }
+        public string symmetricEncryptedMessage { get; set; }
+        public string symmetricDecryptedMessage { get; set; }
     }
 }
