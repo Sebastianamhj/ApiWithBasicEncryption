@@ -3,9 +3,15 @@ School assignment to make a basic api with domain and self created certificate. 
 
 # Encryption
 
-Assymetric encryption with public and private key. <br/>
+The encryption exampled are all made with a static string : "This is teh message.", in regards to the symmetric encryption that also has a password, the password is : "myPassword".
+
+Asymmetric encryption with public and private key. <br/>
+- Very secure, but takes longer than symmetric encryption.
+
 Symmetric encryption with public key and password.
+- Less secure, but is faster than asymmetric encryption
+- AES
 
 # Hashing
 
-SHA256 Hashing example. 
+SHA256 Hashing
