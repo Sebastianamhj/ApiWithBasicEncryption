@@ -11,6 +11,7 @@ Asymmetric encryption with public and private key. <br/>
 Symmetric encryption with public key and password.
 - Less secure, but is faster than asymmetric encryption
 - AES
+- Password with Salt
 
 # Hashing
 
