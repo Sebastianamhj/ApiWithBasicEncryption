@@ -12,7 +12,7 @@ namespace httpsTest001.Controllers
 {
     
 
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class EncryptionController : ControllerBase
     {
